@@ -66,11 +66,11 @@ The RL model demonstrates potential short-term CO2 reductions but reveals challe
 ---
 
 ## Future Improvements
-	- Incorporate long-term economic strategies into the RL model.
-	- Add multi-agent RL for more nuanced policy decision-making.
-	- Explore additional CO2 reduction strategies.
+- Incorporate long-term economic strategies into the RL model.
+- Add multi-agent RL for more nuanced policy decision-making.
+- Explore additional CO2 reduction strategies.
 
 ## References
-	- Mauna Loa CO2 Data
-	- World GDP Growth Data
-	- Stable Baselines3 Documentation
+- Mauna Loa CO2 Data
+- World GDP Growth Data
+- Stable Baselines3 Documentation
