@@ -1,4 +1,4 @@
-# **RL CO2-GDP Simulator**
+# **Reinforcement Learning CO2 and GDP Simulator**
 
 ## **Overview**
 This project explores the economic implications of reducing carbon dioxide (CO2) emissions using reinforcement learning (RL) simulations implemented in Python. By integrating global CO2 levels and world GDP data, this simulation models and predicts the effects of various CO2 reduction policies on future CO2 levels and GDP growth rates.
